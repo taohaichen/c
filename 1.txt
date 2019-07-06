@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-1 h+h
+1 h+h++++h
 2 tttttt
 3 tttthhh
 4 t
