@@ -4,5 +4,4 @@
 4 t
 5 ttt
 6 xx
-7 nnnnnnnn
 
